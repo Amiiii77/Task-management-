@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "1234",
+      "id": "0927"
+    },
+    {
+      "id": "3c77",
+      "username": "adam",
+      "password": "1234"
+    },
+    {
+      "id": "fefb",
+      "username": "admin",
+      "password": "1234"
+    }
+  ],
+  "task": [
+    {
+      "id": "1",
+      "image": "https://assets.atdw-online.com.au/images/a11021df8ac18bcfc096922562e5b24f.jpeg?rect=222",
+      "task": "task1"
+    },
+    {
+      "id": "2",
+      "image": "https://assets.atdw-online.com.au/images/a11021df8ac18bcfc096922562e5b24f.jpeg?rect=222",
+      "task": "task2"
+    },
+    {
+      "id": "3",
+      "image": "https://assets.atdw-online.com.au/images/a11021df8ac18bcfc096922562e5b24f.jpeg?rect=222",
+      "task": "task3"
+    }
+  ]
+}
